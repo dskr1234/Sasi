@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sasi/static/css/main.7f39188c.css",
+    "main.js": "/Sasi/static/js/main.4d2b1b02.js",
+    "index.html": "/Sasi/index.html",
+    "main.7f39188c.css.map": "/Sasi/static/css/main.7f39188c.css.map",
+    "main.4d2b1b02.js.map": "/Sasi/static/js/main.4d2b1b02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f39188c.css",
+    "static/js/main.4d2b1b02.js"
+  ]
+}
